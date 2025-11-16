@@ -1,0 +1,27 @@
+・メモ
+
+/api/hello
+GETできる
+
+/api/login
+POST
+mail :
+password :
+
+ログイン
+/api/signup
+POST
+mail :
+password :
+
+
+
+/api/list
+GETできる
+jwt必須:
+jwtを使用
+リスト一覧をquestions.tsの一覧で取得
+
+
+/api/logout
+jwtを破棄
