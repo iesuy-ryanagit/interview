@@ -39,5 +39,7 @@
 
 ## 📦 起動
 ①**Firebase** にてAuthentification及びDatabaseの作成を行なってください。
+
 ②.envを用意し、Firebaseとの接続に必要な環境変数を設定してください。
+
 ③起動するとアクセスすることができます。(環境等はDockerfileを使用/参考にしてください。)
